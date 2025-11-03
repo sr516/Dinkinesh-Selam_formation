@@ -5,7 +5,7 @@ Additional supporting information. Bern SPH simulation data for Raducan et al., 
 This repository provides the deposited simulation data and analysis scripts used in the publication. It includes results from Bern SPH, REBOUND, and HIDRORINGS simulations, along with asteroid boulder size–frequency distribution (SFD) data and plotting scripts.
 
 # Repository Layout
-
+'''
 Dinkinesh-Selam_formation/
 ├── README.txt                         # Repository overview and documentation
 │
@@ -34,7 +34,7 @@ Dinkinesh-Selam_formation/
     ├── coll_log.txt                   # REBOUND simulation output (v/v_esc, d/R_primary, m_lobe/M_primary)
     └── rebound_collisions.py          # Python script to reproduce Fig. 6
 
-
+'''
 ---
 
 ## Citation
