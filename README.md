@@ -48,4 +48,4 @@ Data and code: **Dinkinesh-Selam_formation** repository.
 
 ## Contact
 
-For questions regarding SPH, REBOUND, or HIDRORINGS datasets, please contact the corresponding author listed in the publication.
+For questions regarding Bern SPH, REBOUND, or HIDRORINGS datasets, please contact the corresponding author listed in the publication.
