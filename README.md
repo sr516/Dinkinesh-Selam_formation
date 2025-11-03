@@ -24,9 +24,9 @@ Dinkinesh-Selam_formation/
 │       ├── shape_love_high/           # SPH input files & shape model (outer lobe)
 │       ├── shape_peace_high/          # SPH input files & shape model (inner lobe)
 │       └── Plots/                     # Python scripts used to generate the figures in the paper
+│
 ├── Shape/                  
-│   │
-│   ├── SFD/                           # Boulder size-frequency data for Ryugu, Bennu, Dimorphos & Dinkinesh
+│   └── SFD/                           # Boulder size-frequency data for Ryugu, Bennu, Dimorphos & Dinkinesh
 │
 ├── HIDRORINGS_simulations/            # HIDRORINGS hydrodynamics simulation data
 │   ├── README.txt                     # Details of HIDRORINGS data and setup
